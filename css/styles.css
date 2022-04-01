@@ -1,6 +1,22 @@
 body
 {
-    color: crimson;
+    color: rgb(0, 4, 255);
     text-align: center;
     font-family: 'Franklin Gothic Medium';
+    font-size: 15px;
+    margin: 1;
+    padding: 0;
+}
+#container
+{
+    width: 80%;
+    padding: 1em;
+    text-align: center;
+    border: 5px solid rgb(58, 61, 92);
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 25px;
 }
