@@ -30,6 +30,7 @@ body
     text-align: left;
     border: 2px solid rgb(58, 61, 92);
     margin: 0 auto;
+    border-radius: 0px 0px 20px 20px;
 }
 
 #container h1
