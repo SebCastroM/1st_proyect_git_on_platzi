@@ -6,6 +6,7 @@ body
     font-size: 15px;
     margin: 1;
     padding: 0;
+    background-color: cadetblue;
 }
 #cabecera
 {
@@ -15,7 +16,11 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
-    
+}
+#cabecera #logo
+{
+    width: 30px;
+    vertical-align: middle;
 }
 #cabecera #tagline
 {
@@ -32,8 +37,13 @@ body
     margin: 0 auto;
     border-radius: 0px 0px 20px 20px;
 }
-
 #container h1
 {
     font-size: 25px;
+}
+#post
+{
+    background-color: white;
+    padding: 1em;
+    border-radius: 0px 0px 20px 20px;
 }
