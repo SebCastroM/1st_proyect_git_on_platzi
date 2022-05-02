@@ -12,15 +12,10 @@ NUEVAMENTE
 
 Experimento 1
 
-<<<<<<< HEAD
-
+experimento 2
 
 
 Master 1
 
 Master 2
-=======
-experimento 2
 
-Master 1
->>>>>>> d7b443f (exp 2)
